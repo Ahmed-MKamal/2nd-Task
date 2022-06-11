@@ -1,0 +1,153 @@
+.div1 {
+width: 350px;
+height: 250px;
+border:1px solid gray;
+float: left;
+margin-left: 200px;
+margin-top: 80px;
+background-color: beige;
+border-radius: 20px;
+}
+.div2 {
+    width: 350px;
+    height: 250px;
+    border:1px solid gray;
+    float: left;
+    margin-left: 20px;
+    margin-top: 80px;
+    background-color: beige;
+    border-radius: 20px;
+}
+.div3 {
+    width: 350px;
+    height: 250px;
+    border:1px solid gray;
+    float: left;
+    margin-left: 20px;
+    margin-top: 80px;
+    background-color: beige;
+    border-radius: 20px;
+}
+.div1:hover{
+    background-color:orange;
+}
+.div2:hover{
+    background-color: green;
+}
+.div3:hover{
+    background-color: blue;
+}
+.title1{
+    text-align: center;
+    color: aqua;
+    font-size: xx-large;
+}
+.title2{
+    text-align: center;
+    color: yellowgreen;
+    font-size: xx-large;
+}.title3{
+    text-align: center;
+    color: palegoldenrod;
+    font-size: xx-large;
+}
+.p1{
+    color: darkblue;
+    text-align: center;
+    font-size: x-large;
+    background-color:gray;
+    border-radius: 20px;
+}
+.p2{
+    color: darkblue;
+    text-align: center;
+    font-size: x-large;
+    background-color: gray;
+    border-radius: 20px;
+ }
+.p3{
+    color: darkblue;
+    text-align: center;
+    font-size: x-large;
+    background-color: gray;
+    border-radius: 20px;    
+ }
+.a1{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-size: medium;
+    color: red;
+}
+.a2{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-size: medium;
+    color: red;
+}.a3{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-size: medium;
+    color: red;
+}
+.a4{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-size: medium;
+    color: black;
+}
+.a5{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-size: medium;
+    color: black;
+}
+.a6{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-size: medium;
+    color: black;
+}
+.butt1{
+    width: 80px;
+    height: 25px;
+    margin-left: 5px;
+    margin-top: 40px;
+    border-radius: 10px;
+    background-color: aqua;
+    cursor: pointer;
+}
+.butt2{
+    width: 80px;
+    height: 25px;
+    margin-left: 5px;
+    margin-top: 40px;
+    border-radius: 10px;
+    background-color: aqua;
+    cursor: pointer;
+}
+.butt3{
+    width: 80px;
+    height: 25px;
+    margin-left: 5px;
+    margin-top: 40px;
+    border-radius: 10px;
+    background-color: aqua;
+    cursor: pointer;
+}
+body{
+    height: 20000px;
+}
+.h11 {
+    color: blue;
+    text-align: center;
+}
+
+.h11:hover{
+    color: aquamarine;
+}
